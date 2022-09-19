@@ -42,3 +42,21 @@ video {
 /* ====================================
 // base rules
 // ==================================== */
+
+header {
+  position: relative;
+}
+
+main {
+  padding: 15px;
+  position: relative;
+}
+
+img {
+  margin-bottom: 30px;
+}
+
+.nav {
+  background-color: #4c4c4c;
+  height: 44px;
+}
