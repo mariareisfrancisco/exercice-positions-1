@@ -81,3 +81,20 @@ img {
   bottom: 15px;
   right: 15px;
 }
+
+.exercice-1,
+.exercice-2,
+.exercice-3,
+.exercice-4,
+.exercice-5 {
+  position: relative;
+}
+
+.element-1 {
+  background-color: #d8d8d8;
+  height: 44px;
+  width: 44px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
