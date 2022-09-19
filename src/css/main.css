@@ -85,8 +85,7 @@ img {
 .exercice-1,
 .exercice-2,
 .exercice-3,
-.exercice-4,
-.exercice-5 {
+.exercice-4 {
   position: relative;
 }
 
@@ -143,8 +142,9 @@ img {
   height: 44px;
   width: 71px;
   position: absolute;
-  top: 80px;
-  left: 144px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -44px);
 }
 
 .exercice-5 img {
@@ -160,22 +160,16 @@ img {
   justify-content: space-between;
 }
 
-.element-5-1 {
+.img {
+  position: relative;
+}
+
+.element-5 {
   position: absolute;
   background-color: #d8d8d8;
   height: 44px;
   width: 175px;
   bottom: 78px;
   left: 0;
-  opacity: 58%;
-}
-
-.element-5-2 {
-  position: absolute;
-  background-color: #d8d8d8;
-  height: 44px;
-  width: 175px;
-  bottom: 78px;
-  left: 186px;
   opacity: 58%;
 }
