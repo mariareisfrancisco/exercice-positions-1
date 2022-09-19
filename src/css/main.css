@@ -98,3 +98,22 @@ img {
   top: 15px;
   right: 15px;
 }
+
+.element-2 {
+  background-color: #d8d8d8;
+  position: absolute;
+  height: 44px;
+  width: 360px;
+  bottom: 30px;
+  opacity: 58%;
+}
+
+.element-3 {
+  background-color: #d8d8d8;
+  position: absolute;
+  height: 165px;
+  width: 320px;
+  opacity: 58%;
+  top: 20px;
+  left: 20px;
+}
