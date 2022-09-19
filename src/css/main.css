@@ -60,3 +60,24 @@ img {
   background-color: #4c4c4c;
   height: 44px;
 }
+
+.red {
+  background-color: #e00000;
+}
+
+.rectangle {
+  height: 80px;
+  width: 40px;
+  position: absolute;
+  top: 96px;
+  left: 0;
+}
+
+.round {
+  height: 44px;
+  width: 44px;
+  border-radius: 50px;
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+}
